@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esporte",Premiere FC
-http://cdn1.appino.tv:80/live/jamile/102030/178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="24H",Baby Looney Tunes
-http://iptv.appino.tv:80/live/jamile/102030/26707.m3u8
