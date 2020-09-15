@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="", Premier Fc
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Tres espias demais
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/128.m3u8
