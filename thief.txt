@@ -59,3 +59,49 @@ http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86db
 http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/186.m3u8
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
 http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boruto" tvg-logo="http://logos.servidor.tv/boruto.png" group-title="Canais: 24 Horas",Boruto
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/100.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://logos.servidor.tv/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/190.m3u8
+#EXTINF:-1 tvg-id="canaldoboi.br" tvg-name="Canal do Boi HD" tvg-logo="http://logos.servidor.tv/canaldoboi.png" group-title="Canais: Abertos",Canal do Boi HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/192.m3u8
+#EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural HD" tvg-logo="http://logos.servidor.tv/canalrural.gif" group-title="Canais: Abertos",Canal Rural HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/194.m3u8
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="http://canaishd.servidor.tv:8080/images/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova SD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/576.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/196.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="http://logos.servidor.tv/cavernadodragao.png" group-title="Canais: 24 Horas",Caverna do Dragão
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="http://canaishd.servidor.tv:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="Canais: CINE SKY",CINE SKY 1
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 2
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 3" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 3
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 4
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 5
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 6
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7" tvg-logo="http://canaishd.servidor.tv:8080/images/e0246efd75ac37eefbf6f2ec1d7e2e15.png" group-title="Canais: CINE SKY",CINE SKY 7
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/574.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/200.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clássicos Walt Disney" tvg-logo="http://canaishd.servidor.tv:8080/images/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",Clássicos Walt Disney
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/72.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/204.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD+" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/206.m3u8
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/208.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/210.m3u8
