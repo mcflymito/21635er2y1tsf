@@ -22,4 +22,40 @@ http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
 http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/160.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://canaishd.servidor.tv:8080/images/c21badd84a757ee66ed3fff17ff244b7.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan
-http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/68.m3u8
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/68.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/162.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://logos.servidor.tv/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/164.m3u8
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://logos.servidor.tv/babytv.png" group-title="Canais: Infantil",Baby TV SD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/166.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/168.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/170.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/172.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://logos.servidor.tv/bandnews.png" group-title="Canais: Notícia",Band News HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/174.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/176.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beastars" tvg-logo="http://logos.servidor.tv/beastars.png" group-title="Canais: 24 Horas",Beastars
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/94.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/180.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://logos.servidor.tv/bis.png" group-title="Canais: Variedade e Música",BIS HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bleach" tvg-logo="http://logos.servidor.tv/bleach.png" group-title="Canais: 24 Horas",Bleach
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/96.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Boa Vontade SD" tvg-logo="http://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade SD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="http://canaishd.servidor.tv:8080/images/94336a363c529a5350ce2e50ccb49e5b.jpg" group-title="Canais: 24 Horas",Bob Esponja
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boku no Hero Academia" tvg-logo="http://logos.servidor.tv/bokunoheroacademia.png" group-title="Canais: 24 Horas",Boku no Hero Academia
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/98.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/186.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://logos.servidor.tv/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/188.m3u8
