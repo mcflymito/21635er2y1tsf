@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="", Premier Fc
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Tres espias demais
-http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/128.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/148.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda HD" tvg-logo="http://logos.servidor.tv/afazenda.png" group-title="Canais: 24 Horas",A Fazenda HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="http://logos.servidor.tv/3palavrinhas.png" group-title="Canais: 24 Horas",3 Palavrinhas
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Família" tvg-logo="http://logos.servidor.tv/agrandefamilia.png" group-title="Canais: 24 Horas",A Grande Família
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Área Restrita" tvg-logo="http://logos.servidor.tv/aeroporto24h.jpg" group-title="Canais: 24 Horas",Aeroporto Área Restrita
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/10.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/152.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://logos.servidor.tv/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/154.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/156.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/158.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan" tvg-logo="http://canaishd.servidor.tv:8080/images/c21badd84a757ee66ed3fff17ff244b7.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/68.m3u8
