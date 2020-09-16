@@ -185,3 +185,159 @@ http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/
 http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/278.m3u8
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
 http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/274.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/276.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/132.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="http://canaishd.servidor.tv:8080/images/83adf16b5322c408d16b68278723a3f5.jpg" group-title="Canais: 24 Horas",Eu a Patroa e as Crianças
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/18.m3u8
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="http://canaishd.servidor.tv:8080/images/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/584.m3u8
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/bcd000ebc7d21ef2d78616d2671a16ee.png" group-title="Canais: Variedade e Música",Film & Arts HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts SD" tvg-logo="http://canaishd.servidor.tv:8080/images/bcd000ebc7d21ef2d78616d2671a16ee.png" group-title="Canais: Variedade e Música",Film & Arts SD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/588.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://logos.servidor.tv/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/282.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="http://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Netword HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/284.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="http://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/286.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/288.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/290.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/292.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/294.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/296.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD+" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/298.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/300.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD+" tvg-logo="http://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/302.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/304.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/306.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/308.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Friends" tvg-logo="http://logos.servidor.tv/friends.png" group-title="Canais: 24 Horas",Friends
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/132.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="http://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/312.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="http://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="http://canaishd.servidor.tv:8080/images/3d94d4acf88c16ced5dca83f3efe20a3.jpg" group-title="Canais: 24 Horas",Galinha Pintadinha
+http://45.162.230.166:8080/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/20.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD" tvg-logo="http://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/318.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="http://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/316.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/320.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Centro America HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/322.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/324.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="http://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/326.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/328.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/330.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Sul Minas HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/332.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Sul Minas HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/334.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/336.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/338.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Cabugi HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Inter TV Cabugi HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/590.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/342.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/344.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus" tvg-logo="http://logos.servidor.tv/globoredeamazonica.png" group-title="Canais: Abertos",Globo Manaus
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/346.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Manaus HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Manaus HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/356.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Minas HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/202.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Minas HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/204.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/206.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/208.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/210.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/212.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC Floripa HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/214.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Joinville HD" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo NSC Joinville HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/348.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Joinville HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo NSC Joinville HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/592.m3u8
+#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="Globo Portugal HD" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Portugal HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/350.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD" tvg-logo="http://logos.servidor.tv/globorbs.png" group-title="Canais: Abertos",Globo RBS Poa HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/216.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RBS Poa HD+" tvg-logo="http://logos.servidor.tv/globorbs.png" group-title="Canais: Abertos",Globo RBS Poa HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/218.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo RBS TV Santa Maria HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/354.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Santa Maria HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo RBS TV Santa Maria HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/352.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/220.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/222.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paranaense HD+" tvg-logo="http://logos.servidor.tv/globorpc.png" group-title="Canais: Abertos",Globo RPC Paranaense HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/224.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC SD" tvg-logo="http://logos.servidor.tv/globorpc.png" group-title="Canais: Abertos",Globo RPC SD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/226.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/228.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/230.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Sergipe HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Sergipe HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/232.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/234.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/236.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Anhanguera Goiânia  HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Anhanguera Goiânia  HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/340.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Anhanguera HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/358.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Asa Branca HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Asa Branca HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/360.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Clube Piaui HD" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Clube Piaui HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/364.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Clube Piaui HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Clube Piaui HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/362.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Diario Mogi HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/240.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Diario Mogi HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/242.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/244.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/246.m3u8
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo TV Gazeta Alagoas HD+" tvg-logo="http://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/248.m3u8
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo TV Gazeta HD+" tvg-logo="http://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/250.m3u8
