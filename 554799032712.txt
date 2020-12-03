@@ -1,0 +1,104 @@
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13675
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://logos.servidor.tv/combate.jpg" group-title="Canais: Esporte",Combate HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14178
+#EXTINF:-1 tvg-id="" tvg-name="Benfica TV" tvg-logo="" group-title="Canais: Esporte",Benfica TV
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43623
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://logos.servidor.tv/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13670
+#EXTINF:-1 tvg-id="CONMEBOL TV " tvg-name="Conmebol 01 HD" tvg-logo="http://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 01 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43521
+#EXTINF:-1 tvg-id="CONMEBOL TV " tvg-name="Conmebol 02 HD" tvg-logo="http://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 02 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43522
+#EXTINF:-1 tvg-id="CONMEBOL TV " tvg-name="Conmebol 03 HD" tvg-logo="http://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 03 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43523
+#EXTINF:-1 tvg-id="CONMEBOL TV " tvg-name="Conmebol 04 HD" tvg-logo="http://logos.servidor.tv/conmebol.png" group-title="Canais: Esporte",Conmebol 04 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43524
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="http://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte",DAZN HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/36296
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://logos.servidor.tv/dazn.jpg" group-title="Canais: Esporte",DAZN 3 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41071
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13893
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13860
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14111
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13686
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/27260
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13685
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14112
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Canais: Esporte",Eurosport 1
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43631
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Canais: Esporte",Eurosport 2
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43632
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14108
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13695
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14107
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13694
+#EXTINF:-1 tvg-id="" tvg-name="PFC +" tvg-logo="" group-title="Canais: Esporte",PFC +
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13820
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 1 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41866
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 1 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41867
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13723
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41865
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41868
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13724
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13725
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41864
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13726
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41869
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13759
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41870
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13757
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://logos.servidor.tv/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41871
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43322
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14160
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes" tvg-logo="http://canaishd.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43322
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co/yn5xMYq/image.png" group-title="Canais: Esporte",Sport TV 1
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43625
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD+" tvg-logo="https://i.ibb.co/yn5xMYq/image.png" group-title="Canais: Esporte",Sport TV 1 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43624
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co/yn5xMYq/image.png" group-title="Canais: Esporte",Sport TV 2
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43626
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://i.ibb.co/yn5xMYq/image.png" group-title="Canais: Esporte",Sport TV 3
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43627
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://i.ibb.co/yn5xMYq/image.png" group-title="Canais: Esporte",Sport TV 4
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43628
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="https://i.ibb.co/yn5xMYq/image.png" group-title="Canais: Esporte",Sport TV 5
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/43629
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/13732
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="http://logos.servidor.tv/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14170
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14170
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="http://logos.servidor.tv/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/14159
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://logos.servidor.tv/sportv.png" group-title="Canais: Esporte",SporTV HD
+http://hatv.me:8000/XPLUXLIVEONLINE67/JHGJHG3214sssSSSS/41872
