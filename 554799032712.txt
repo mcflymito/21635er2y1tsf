@@ -5605,3 +5605,93 @@ http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x5
 http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x6.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP07
 http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP08
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x8.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP09
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP010
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x10.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP11
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x11.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP12
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x12.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP13
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x13.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP01
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x1.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP02
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x2.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP03
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x3.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP04
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x4.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP05
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x5.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP06
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x6.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP07
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x7.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP08
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x8.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP09
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x9.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP10
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x10.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP11
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x11.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP12
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x12.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S2EP13
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth2x13.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP01
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x1.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP02
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x2.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP03
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x3.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP04
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x4.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP05
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x5.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP06
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x6.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP07
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x7.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP08
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x8.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP09
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x9.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP10
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x10.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP11
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x11.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP12
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x12.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S3EP13
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth3x13.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP01
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x1.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP02
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x2.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP03
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x3.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP04
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x4.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP05
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x5.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP06
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x6.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP07
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x7.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP08
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x8.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP09
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x9.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP10
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x10.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP11
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x11.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP12
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x12.mp4
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/04/19/11/23/421985.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S4EP13
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth4x13.mp4
