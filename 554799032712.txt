@@ -5591,3 +5591,17 @@ http://canaishd.servidor.tv:8080/movie/ux1kw2/6b0v1p/8587.mp4
 http://canaishd.servidor.tv:8080/movie/ux1kw2/6b0v1p/20934.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zumbilândia: Atire Duas Vezes" tvg-logo="http://logos.servidor.tv/images/eb0a16fac53d74f4c6ef11d2cbe0aa73.jpg" group-title="Filmes: Ação",Zumbilândia: Atire Duas Vezes
 http://canaishd.servidor.tv:8080/movie/ux1kw2/6b0v1p/13543.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP01
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP02
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP03
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP04
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP05
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP06
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sGInylLAYcVpmIE6b6S3pFtnEEv.jpg" group-title="Serie: A Rainha do Sul",A Rainha do Sul S1EP07
+http://testecdnnovapipo.azureedge.net/series8/queenofthesouth/queenofthesouth1x7.mp4
